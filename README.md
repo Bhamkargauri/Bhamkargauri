@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I'm currently working on a project related to e-commerce, while also learning Python.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gauri09](https://github.com/gauri09)
+- 👨‍💻 All of my projects are available at [https://github.com/gauri09](https://github.com/Bhamkargauri)
 
 - 📫 How to reach me **gauribhamkar09@gmail.com**
 
