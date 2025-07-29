@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gauri Bhamkar</h1>
-<h3 align="center">A passionate Web Developer,Java Developer, and Frontend Developer from India</h3>
+<h3 align="center">A passionate Web Developer, Java Developer, and Frontend Developer from India</h3>
 
 - 🔭 I’m currently working on **I am currently pursuing a Full Stack Web Development course with Java at IT Vedant. The course covers front-end technologies like HTML, CSS, JavaScript, and React, as well as back-end technologies such as Core Java, JDBC, Servlets, JSP, and Spring Boot. It also includes working with databases like MySQL and PostgreSQL, along with real-time project development to build end-to-end web applications.**
 
